@@ -11,8 +11,8 @@ _Italic text_
 List
 
 Order
-1. Iem 1
-2. tem 2
+1. Item 1
+2. Item 2
       
 Non-Ordered
 - bullet 1
